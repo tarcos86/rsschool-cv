@@ -24,14 +24,10 @@
 <li>Polish: Intermediate</li>
 </ul>
 
-
 <h3> Summary    </h3>
   Hi! I'm Viktor. I used to work as a doctor. Now I work  as a medical representative for a pharmaceutical company.  In future I would like to become a front-end developer. From this course I want to get knowledge and skills that will be enough for employment in a company. My main qualities are the ability to work in a team and the ability to learn quickly</p> 
 
 
- <h3>Education</h3>
-
-<p>Grodno State Medical University, Faculty of Mental Health Medicine</p>
 
 
 
