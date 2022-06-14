@@ -10,7 +10,7 @@
   }
     .container-centered {
     margin: 20px auto;
-    width: 1024px;
+    max-width: 1024px;
     font-family: "Cabin", sans-serif;
     font-size: 18px;
     line-height: 1.5;
